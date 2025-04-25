@@ -22,5 +22,5 @@ This is a C# console application built using .NET Framework for generating and v
 - Internet connection for Google Sheets integration.
 
 ## Donate ⭐
-- USDT (TRC-20): TCLCdvvvgy6Pbj5VnTzaYBwGKzBDyBEyGL
-- BTC: 3EALRZzA5vp7i6kXhELTujphiJC4WwZESF
+- **USDT (TRC-20)**: `TCLCdvvvgy6Pbj5VnTzaYBwGKzBDyBEyGL`
+- **BTC**: `3EALRZzA5vp7i6kXhELTujphiJC4WwZESF`
